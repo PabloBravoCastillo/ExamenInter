@@ -1,0 +1,30 @@
+body{
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+}
+
+
+#map { 
+    height: 100VH;
+}
+
+  .fixed-column {
+    position: fixed;
+    left: 0;
+    top: 0;
+    height: 100vh;
+  }
+  
+  .scrolling-column {
+    height: 100vh;
+    overflow: auto;
+  }
+  .sombra {
+    background-color: #7a7a7a;
+    margin-right: 5%;
+    color: white;
+    border-radius: 5px;
+    padding: 0 2%;
+  }
+  
+  
